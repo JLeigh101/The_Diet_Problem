@@ -1,0 +1,18 @@
+Result - Optimal solution found
+
+Objective value:                145.83000000
+Enumerated nodes:               0
+Total iterations:               5
+Time (CPU seconds):             0.02
+Time (Wallclock seconds):       0.02
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.02   (Wallclock seconds):       0.02
+
+Status: Optimal
+Bacon: 0.0
+Eggs: 58.0
+Lentils: 37.0
+Pasta: 0.0
+Tomatoes: 0.0
+Total Cost: $ 145.83
